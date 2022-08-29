@@ -23,7 +23,7 @@ Font Awesome
 
 ScreenCastify
 
-Special thanks to TAs Ian and Diem for all of their invaluable help during this project. I would also like to thank my tutor Jack Linhart for helping me figure out the final pieces of this project. My final acknowledgment is to Youtuber Joelle DesChatelets (github username: jdeschat). Although I didn't follow her example very closely, she gave me some ideas to pursue for this project.
+
 
 
 ## License
