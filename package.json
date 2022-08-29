@@ -1,0 +1,33 @@
+{
+    "name": "Challenge-10-Team-Profile-Generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "tests"
+    },
+    "scripts": {
+        "start": "node --experimental-modules --experimental-json-modules server.mjs",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LeenaJabr/Challenge-10-Team-Profile-Generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LeenaJabr/Challenge-10-Team-Profile-Generator/issues"
+    },
+    "homepage": "https://github.com/LeenaJabr/Challenge-10-Team-Profile-Generator#readme",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "node-fetch": "^2.6.1",
+        "yarn": "^1.22.19"
+    },
+    "devDependencies": {
+        "jest": "^29.0.1"
+    }
+}
