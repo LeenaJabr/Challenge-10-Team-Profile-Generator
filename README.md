@@ -13,6 +13,10 @@ This is a coding challenge for unit 10 of the UT Austin Coding Bootcamp. The goa
 
 View my walkthrough video 
 
+https://user-images.githubusercontent.com/107494937/187591978-a15b5286-7ce6-498d-85e5-8f29a32f7fee.mp4
+
+
+
 ## Credits
 Adam Wagh https://github.com/adamwagh512
 
