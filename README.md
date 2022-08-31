@@ -2,7 +2,6 @@
 
 ## Product Description
 This is a coding challenge for unit 10 of the UT Austin Coding Bootcamp. The goal of this project was to make an app that would dynamically create a team profile based off information given during prompts. The information requested is varied dependent on the class of employee. This project required all of the information we have learned through Unit 10 of the bootcamp.
-![alt text]
 
 ## How to Use This Project
 1) Go to my GitHub repo for this project https://github.com/LeenaJabr/Challenge-10-Team-Profile-Generator
