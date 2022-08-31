@@ -40,7 +40,7 @@ function writeHTML(roster) {
     </div>
     <!-- The following code will generate the footer at the bottom of the page -->
     <footer>
-        <p class="is-size-4">Made by Adam Wagh</p>
+        <p class="is-size-4">Made by Leena Jabr</p>
         <h5 class="is-size-5">Check me out on <a href="https://github.com/LeenaJabr">Github!</a> </h5>
     </footer>
     
