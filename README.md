@@ -15,15 +15,7 @@ This is a coding challenge for unit 10 of the UT Austin Coding Bootcamp. The goa
 View my walkthrough video 
 
 ## Credits
-Technologies Used:
-<br>
-Bulma
-
-Font Awesome
-
-ScreenCastify
-
-
+Adam Wagh https://github.com/adamwagh512
 
 
 ## License
