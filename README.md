@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/107494937/187591978-a15b5286-7ce6-498d
 
 
 
-## Credits
+## Contributions
 Adam Wagh https://github.com/adamwagh512
 
 
